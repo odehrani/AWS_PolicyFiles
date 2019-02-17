@@ -1,0 +1,12 @@
+[
+  {
+    "Description": "DESCRIPTION",
+    "Format": "vmdk",
+    "UserBucket": {
+        "S3Bucket": "BUCKET-NAME",
+        "S3Key": "PATH-TO-VMDK"
+    }
+}
+
+
+]
